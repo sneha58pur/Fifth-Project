@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="titlee">Title</string>
+    <string name="subtitlee">Subtitle</string>
+    <string-array name="tech_array">
+        <item>Dress</item>
+        <item>Jewellery</item>
+        <item>Ring</item>
+        <item>Earring</item>
+        <item>Coat</item>
+        <item>Dress</item>
+        <item>Jewellery</item>
+        <item>Ring</item>
+        <item>Earring</item>
+        <item>Coat</item>
+
+    </string-array>
+
+
+
+
+
+</resources>
